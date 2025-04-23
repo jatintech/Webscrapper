@@ -16,7 +16,7 @@ This project automates the process of logging into Twitter (X.com), scraping tre
 - Chrome browser installed
 - MongoDB running locally (or accessible via URI)
 - Twitter credentials
-- Proxy details (optional)
+- Proxy details
 
 ## 📦 Libraries Used
 
